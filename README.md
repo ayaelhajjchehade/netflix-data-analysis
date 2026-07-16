@@ -28,4 +28,4 @@ A project where I explored a Netflix dataset (Movies and TV Shows) from Kaggle t
 
 ## Dataset
 
-[Netflix Movies and TV Shows dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+`netflix_titles.csv` is included in this repo. Originally from [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).
