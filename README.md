@@ -28,15 +28,15 @@
 Shows how Netflix's catalog grew over time, with the highest number of titles added in 2019.
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](images/movies_vs_tv_shows.png)
+![Movies vs TV Shows](images/movie_vs_tv.png)
 Compares the distribution of Movies and TV Shows in the Netflix catalog.
 
 ### Top 10 Content-Producing Countries
-![Top 10 Content-Producing Countries](images/top_10_countries.png)
+![Top 10 Content-Producing Countries](images/top_countries.png)
 Displays the countries that contributed the most titles to the Netflix catalog.
 
 ### Most Common Genres
-![Most Common Genres](images/most_common_genres.png)
+![Most Common Genres](images/top_genres.png)
 Shows the most common genres after splitting titles with multiple genre labels.
 
 ## Tools
